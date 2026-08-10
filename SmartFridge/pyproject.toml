@@ -1,0 +1,19 @@
+[project]
+name = "smartfridge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "dynamsoft-barcode-reader-bundle>=11.4.1000",
+    "google-cloud-vision>=3.12.1",
+    "mediapipe>=0.10.32",
+    "opencv-python>=4.13.0.92",
+    "pg8000>=1.31.5"
+]
+
+[tool.uv.workspace]
+members = [
+    "barcode_scanner",
+]

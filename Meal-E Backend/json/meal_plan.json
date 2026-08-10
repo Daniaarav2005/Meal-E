@@ -1,0 +1,707 @@
+{
+  "plan": [
+    {
+      "day": "Monday",
+      "meals": [
+        {
+          "name": "Italian Garlic Spinach Scramble",
+          "recipe": "Heat 4 tbsp of olive oil in a pan over medium heat. Add 0.28 cups of spinach and saut\u00e9 until slightly wilted. Whisk 4 eggs with 0.5 tsp salt, 0.5 tsp black pepper, and 0.5 tsp garlic powder. Pour the eggs into the pan and scramble gently until the eggs are set but still moist.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Garlic Powder": "0.5 tsp (1.5g)",
+            "Salt": "0.5 tsp (3g)",
+            "Black Pepper": "0.5 tsp (1g)"
+          },
+          "prep_time_minutes": 10,
+          "difficulty": "low",
+          "macros": {
+            "calories": 769.96,
+            "carbohydrates": 1.78,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 14.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.78,
+            "sodium": 1437.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Savory Onion Infused Fried Eggs",
+          "recipe": "Heat 4 tbsp of olive oil in a skillet. Crack 5 eggs into the skillet. Season with 0.5 tsp onion powder, 0.5 tsp salt, and 0.5 tsp black pepper. Cook until the whites are opaque and the edges are crispy. Serve as a high-protein lunch.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Onion Powder": "0.5 tsp (1.5g)",
+            "Salt": "0.5 tsp (3g)",
+            "Black Pepper": "0.5 tsp (1g)"
+          },
+          "prep_time_minutes": 12,
+          "difficulty": "low",
+          "macros": {
+            "calories": 837.0,
+            "carbohydrates": 1.5,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.5,
+            "sodium": 1501.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "Sweet Egg Custard with Dr Pepper",
+          "recipe": "Whisk 5 eggs with 0.14 cups of whole milk and 2 tsp of sugar. Heat 4 tbsp of vegetable oil in a non-stick pan. Pour in the mixture and cook on low heat, stirring constantly to create a sweet, soft curd. Serve with Funables fruit snacks on the side and a chilled bottle of Dr Pepper.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 15,
+          "difficulty": "medium",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2715.0,
+        "carbohydrates": 108.0,
+        "protein": 86.5,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    },
+    {
+      "day": "Tuesday",
+      "meals": [
+        {
+          "name": "Mediterranean Olive Oil Omelet",
+          "recipe": "Whisk 4 eggs with salt and pepper. Heat 4 tbsp of olive oil. Add 0.28 cups of spinach to the pan, then pour in the eggs. Fold the omelet once the bottom is set. The high oil content ensures high calorie density.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Salt": "0.5 tsp (3g)",
+            "Black Pepper": "0.5 tsp (1g)"
+          },
+          "prep_time_minutes": 10,
+          "difficulty": "low",
+          "macros": {
+            "calories": 764.96,
+            "carbohydrates": 0.78,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 14.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.78,
+            "sodium": 1436.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Garlic-Onion Poached Eggs",
+          "recipe": "Simmer 4 tbsp of olive oil and 1 tbsp of white vinegar in a small pan. Gently crack 5 eggs into the liquid. Season with garlic and onion powder. Cook until whites are set. The oil acts as a poaching medium to boost fats.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "White Vinegar": "1 tbsp (15ml)",
+            "Garlic Powder": "0.5 tsp (1.5g)",
+            "Onion Powder": "0.5 tsp (1.5g)"
+          },
+          "prep_time_minutes": 15,
+          "difficulty": "medium",
+          "macros": {
+            "calories": 839.0,
+            "carbohydrates": 2.0,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.0,
+            "sodium": 352.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "Sweetened Scrambled Eggs and Soda",
+          "recipe": "Whisk 5 eggs with 0.14 cups of whole milk and 2 tsp sugar. Fry in 4 tbsp of vegetable oil. Serve alongside Funables fruit snacks and Dr Pepper to meet daily carbohydrate and calorie requirements.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 10,
+          "difficulty": "low",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2712.0,
+        "carbohydrates": 107.0,
+        "protein": 86.2,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    },
+    {
+      "day": "Wednesday",
+      "meals": [
+        {
+          "name": "Indian-Style Egg Bhurji",
+          "recipe": "Heat 4 tbsp of vegetable oil. Add 0.5 tsp garlic powder and 0.5 tsp onion powder. Saut\u00e9 0.28 cups of spinach. Add 4 whisked eggs and scramble until well cooked and spicy from the black pepper.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Garlic Powder": "0.5 tsp (1.5g)",
+            "Onion Powder": "0.5 tsp (1.5g)",
+            "Black Pepper": "1 tsp (2g)"
+          },
+          "prep_time_minutes": 12,
+          "difficulty": "low",
+          "macros": {
+            "calories": 776.96,
+            "carbohydrates": 3.2800000000000002,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 10.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 1.28,
+            "sodium": 288.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Olive Oil Basted Eggs",
+          "recipe": "Heat 4 tbsp of olive oil in a pan. Fry 5 eggs, continuously spooning the hot oil over the yolks until a film forms. Season with salt and pepper.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Salt": "0.5 tsp (3g)",
+            "Black Pepper": "0.5 tsp (1g)"
+          },
+          "prep_time_minutes": 10,
+          "difficulty": "low",
+          "macros": {
+            "calories": 833.0,
+            "carbohydrates": 0.5,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.5,
+            "sodium": 1500.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "Protein-Dense Custard Dinner",
+          "recipe": "Mix 5 eggs, 0.14 cups milk, and 2 tsp sugar. Cook in 4 tbsp vegetable oil over very low heat to maintain a soft texture. Consume with Dr Pepper and fruit snacks for maximal energy.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 15,
+          "difficulty": "medium",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2710.0,
+        "carbohydrates": 107.5,
+        "protein": 86.3,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    },
+    {
+      "day": "Thursday",
+      "meals": [
+        {
+          "name": "Spinach & Pepper Scramble",
+          "recipe": "Scramble 4 eggs in 4 tbsp of olive oil with 0.28 cups of spinach and a generous amount of black pepper.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Black Pepper": "1 tsp (2g)",
+            "Salt": "0.5 tsp (3g)"
+          },
+          "prep_time_minutes": 8,
+          "difficulty": "low",
+          "macros": {
+            "calories": 767.96,
+            "carbohydrates": 1.28,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 14.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 1.28,
+            "sodium": 1436.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Garlic Infused Fried Eggs",
+          "recipe": "Fry 5 eggs in 4 tbsp of olive oil. Dust with 1 tsp of garlic powder during the final minute of cooking.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Garlic Powder": "1 tsp (3g)",
+            "Salt": "0.5 tsp (3g)"
+          },
+          "prep_time_minutes": 10,
+          "difficulty": "low",
+          "macros": {
+            "calories": 840.0,
+            "carbohydrates": 2.0,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.0,
+            "sodium": 1502.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "High-Calorie Sweet Egg Plate",
+          "recipe": "Combine 5 eggs, 0.14 cups milk, and 2 tsp sugar. Fry in 4 tbsp of vegetable oil. Pair with fruit snacks and Dr Pepper for the required caloric surplus.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 12,
+          "difficulty": "low",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2708.0,
+        "carbohydrates": 107.0,
+        "protein": 86.1,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    },
+    {
+      "day": "Friday",
+      "meals": [
+        {
+          "name": "Simple Spinach Scramble",
+          "recipe": "Wilt 0.28 cups of spinach in 4 tbsp olive oil. Add 4 eggs and cook until scrambled. Season with salt.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Salt": "0.5 tsp (3g)"
+          },
+          "prep_time_minutes": 7,
+          "difficulty": "low",
+          "macros": {
+            "calories": 761.96,
+            "carbohydrates": 0.28,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 14.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.28,
+            "sodium": 1436.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Onion and Garlic Egg Pan-Fry",
+          "recipe": "Heat 4 tbsp olive oil. Fry 5 eggs sunny-side up. Season with onion and garlic powders.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Onion Powder": "0.5 tsp (1.5g)",
+            "Garlic Powder": "0.5 tsp (1.5g)"
+          },
+          "prep_time_minutes": 10,
+          "difficulty": "low",
+          "macros": {
+            "calories": 839.0,
+            "carbohydrates": 2.0,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.0,
+            "sodium": 352.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "Glazed Egg Curds & Dr Pepper",
+          "recipe": "Cook 5 eggs, 0.14 cups milk, and 2 tsp sugar in 4 tbsp vegetable oil. Serve with fruit snacks and Dr Pepper.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 15,
+          "difficulty": "medium",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2705.0,
+        "carbohydrates": 107.0,
+        "protein": 86.0,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    },
+    {
+      "day": "Saturday",
+      "meals": [
+        {
+          "name": "Whipped Spinach Souffl\u00e9 Omelet",
+          "recipe": "Separate 4 eggs. Whip whites until frothy. Mix yolks with 0.28 cups of chopped spinach, salt, and pepper. Fold in whites and cook in 4 tbsp of olive oil on low heat until fluffy.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Salt": "0.5 tsp (3g)",
+            "Black Pepper": "0.5 tsp (1g)"
+          },
+          "prep_time_minutes": 20,
+          "difficulty": "hard",
+          "macros": {
+            "calories": 764.96,
+            "carbohydrates": 0.78,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 14.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.78,
+            "sodium": 1436.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Slow-Poached Garlic Medallions",
+          "recipe": "Gently poach 5 eggs in 4 tbsp of olive oil seasoned with 1 tsp garlic powder and 1 tbsp white vinegar. Maintain a low temperature to prevent the oil from smoking.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "White Vinegar": "1 tbsp (15ml)",
+            "Garlic Powder": "1 tsp (3g)"
+          },
+          "prep_time_minutes": 18,
+          "difficulty": "hard",
+          "macros": {
+            "calories": 840.0,
+            "carbohydrates": 2.0,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.0,
+            "sodium": 352.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "Layered Sweet Egg Reduction",
+          "recipe": "Whisk 5 eggs with 0.14 cups milk and 2 tsp sugar. Cook in 4 tbsp vegetable oil until a firm custard forms. Top with Funables fruit snacks and serve with Dr Pepper.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 20,
+          "difficulty": "hard",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2712.0,
+        "carbohydrates": 107.5,
+        "protein": 86.3,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    },
+    {
+      "day": "Sunday",
+      "meals": [
+        {
+          "name": "Deconstructed Spinach Frittata",
+          "recipe": "Saut\u00e9 0.28 cups of spinach in 4 tbsp olive oil. Whisk 4 eggs and pour over. Finish under a broiler (if available) or flip carefully to brown both sides.",
+          "ingredients": {
+            "Eggs": "4 eggs (200g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Spinach": "0.28 cups (8.4g)",
+            "Salt": "0.5 tsp (3g)",
+            "Black Pepper": "0.5 tsp (1g)"
+          },
+          "prep_time_minutes": 20,
+          "difficulty": "hard",
+          "macros": {
+            "calories": 764.96,
+            "carbohydrates": 0.78,
+            "protein": 24.28,
+            "fat": 76.0,
+            "saturated_fat": 14.0,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.78,
+            "sodium": 1436.72,
+            "iron": 4.28,
+            "calcium": 120.4,
+            "potassium": 322.76,
+            "vitamin_d": 4.0
+          }
+        },
+        {
+          "name": "Emulsified Onion-Oil Eggs",
+          "recipe": "Fry 5 eggs in 4 tbsp olive oil while whisking 0.5 tsp onion powder into the oil to create a savory emulsion. Baste eggs with the flavored oil.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Olive Oil": "4 tbsp (56g)",
+            "Onion Powder": "0.5 tsp (1.5g)",
+            "Salt": "0.5 tsp (3g)"
+          },
+          "prep_time_minutes": 15,
+          "difficulty": "hard",
+          "macros": {
+            "calories": 834.0,
+            "carbohydrates": 1.0,
+            "protein": 30.0,
+            "fat": 81.0,
+            "saturated_fat": 15.5,
+            "trans_fat": 0.0,
+            "sugar": 0.0,
+            "added_sugar": 0.0,
+            "fiber": 0.0,
+            "sodium": 1501.0,
+            "iron": 5.0,
+            "calcium": 140.0,
+            "potassium": 345.0,
+            "vitamin_d": 5.0
+          }
+        },
+        {
+          "name": "Grand Custard Finale",
+          "recipe": "Slow-cook 5 eggs with 0.14 cups milk, 2 tsp sugar, and 4 tbsp vegetable oil. Garnish with Funables fruit snacks. Serve with Dr Pepper.",
+          "ingredients": {
+            "Eggs": "5 eggs (250g)",
+            "Vegetable Oil": "4 tbsp (56g)",
+            "Whole Milk": "0.14 cups (33.6ml)",
+            "Sugar": "2 tsp (8g)",
+            "Funables fruit snacks": "30g",
+            "Dr Pepper": "1 bottle (591ml)"
+          },
+          "prep_time_minutes": 20,
+          "difficulty": "hard",
+          "macros": {
+            "calories": 1203.2499,
+            "carbohydrates": 94.9987,
+            "protein": 32.120000000000005,
+            "fat": 82.12,
+            "saturated_fat": 12.2,
+            "trans_fat": 0.0,
+            "sugar": 88.9987,
+            "added_sugar": 70.3594,
+            "fiber": 0.0,
+            "sodium": 364.8076,
+            "iron": 5.0,
+            "calcium": 178.64,
+            "potassium": 390.08,
+            "vitamin_d": 5.35
+          }
+        }
+      ],
+      "macros": {
+        "calories": 2710.0,
+        "carbohydrates": 107.0,
+        "protein": 86.2,
+        "fat": 238.0,
+        "saturated_fat": 45.0,
+        "trans_fat": 0.0
+      }
+    }
+  ]
+}

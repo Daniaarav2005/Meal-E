@@ -1,0 +1,22 @@
+{
+  "name": "Sanchith",
+  "age": 18,
+  "household_size": 1,
+  "meals_per_day": 3,
+  "macro_targets": {
+    "calories": 2500,
+    "protein": 80
+  },
+  "dietary_restriction": "vegetarian",
+  "allergies": [
+    "gluten",
+    "nuts"
+  ],
+  "cooking_proficiency": "intermediate",
+  "cuisine_preferences": [
+    "italian",
+    "mexican",
+    "indian"
+  ],
+  "budget": "Low"
+}

@@ -1,0 +1,24 @@
+*/*.json
+
+.env
+
+claude.md
+
+*/.venv
+
+*/__pycache__
+
+*/temp.jpg
+*.jpg
+temp.*
+
+*credential*.json
+*-service-account*.json
+
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+build/
+DerivedData/
